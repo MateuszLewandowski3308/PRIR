@@ -1,0 +1,8 @@
+zad_1:
+https://colab.research.google.com/drive/1-F82fxqoiFdBbpK2yuJwkJ5JJ8T3sUju?usp=sharing
+
+zad_2:
+https://colab.research.google.com/drive/16Cp4afYxIhBVftbeSwk9S2XvSnulE1OD?usp=sharing
+
+zad_3:
+https://colab.research.google.com/drive/1NGJsqyO6B1VtPrN6JxwWtIDuYEbILBHB?usp=sharing
